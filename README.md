@@ -1,3 +1,10 @@
-## Hi! I'm Stoman 👋 
-### Web Developer
-#### Code & Design Enthusiast
+[comment]: <> (Header Start)
+
+<h1 align="center">Hi 👋, I'm Stoman</h1>
+<h3 align="center">Web Developer from Kabul</h3>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstoman&layout=compact" alt="nstoman" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nstoman&show_icons=true" alt="nstoman" />
+</p>
