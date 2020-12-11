@@ -24,6 +24,8 @@
 <a href="https://www.behance.net/NangialaiStoman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="Nangialai Stoman" height="30" width="40" /></a>
 </p>
 
+[comment]: <> (Stats)
+
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstoman&layout=compact" alt="nstoman" />
   -->
