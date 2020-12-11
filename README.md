@@ -9,6 +9,8 @@
   <a href="https://twitter.com/NangialaiStoman" target="blank"><img src="https://img.shields.io/twitter/follow/NangialaiStoman?logo=twitter&style=for-the-badge" alt="Nangialai Stoman" /></a>
 </p>
 
+[comment]: <> (Connect With Me)
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://stoman.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Nangialai Stoman" height="30" width="40" /></a>
