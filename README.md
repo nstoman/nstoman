@@ -1,7 +1,7 @@
 [comment]: <> (Header Start)
 
 <h1 align="center">Hi 👋, I'm Stoman</h1>
-<h3 align="center">Web Developer from Kabul</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 <p align="center">
