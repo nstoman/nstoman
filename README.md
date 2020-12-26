@@ -1,7 +1,7 @@
 [comment]: <> (Titles)
 
 <h1 align="center">Hi 👋, I'm Stoman</h1>
-<h3 align="center">Full Stack Web Developer & Design Enthusiast</h3>
+<h3 align="center">Full-Stack Developer & Design Enthusiast</h3>
 
 [comment]: <> (Twitter Follow)
 
