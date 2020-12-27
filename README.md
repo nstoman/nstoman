@@ -9,7 +9,7 @@
   <a href="https://twitter.com/NangialaiStoman" target="blank"><img src="https://img.shields.io/twitter/follow/NangialaiStoman?logo=twitter&style=for-the-badge" alt="Nangialai Stoman" /></a>
 </p>
 
-[comment]: <> (Connect With Me)
+[comment]: <> (Let's get in touch)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
