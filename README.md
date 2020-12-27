@@ -12,7 +12,7 @@
 [comment]: <> (Let's get in touch)
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's get in touch:</h3>
 <a href="https://stoman.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Nangialai Stoman" height="30" width="40" /></a>
 <a href="https://twitter.com/NangialaiStoman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Nangialai Stoman" height="30" width="40" /></a>
 <a href="https://instagram.com/NangialaiStoman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nangialai Stoman" height="30" width="40" /></a>
